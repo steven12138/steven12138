@@ -2,7 +2,9 @@
 
 Trying to be cool
 
-![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=steven12138)
+![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=steven12138)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Fun Things
 [![steven12138/video-retalking-webUI - GitHub](https://gh-card.dev/repos/steven12138/video-retalking-webUI.svg?fullname=)](https://github.com/steven12138/video-retalking-webUI)
