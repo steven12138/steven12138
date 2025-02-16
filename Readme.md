@@ -6,8 +6,6 @@ Trying to be cool
 
 
 ## Fun Things
-[![steven12138/video-retalking-webUI - GitHub](https://gh-card.dev/repos/steven12138/video-retalking-webUI.svg?fullname=)](https://github.com/steven12138/video-retalking-webUI)
-  
 [![steven12138/HandPose - GitHub](https://gh-card.dev/repos/steven12138/HandPose.svg?fullname=)](https://github.com/steven12138/HandPose)
 
 ## Education
